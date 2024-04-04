@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87787f26-3da9-4531-bacf-521ccee5631c" name="Changes" comment="d">
-      <change beforePath="$PROJECT_DIR$/repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router.py" beforeDir="false" afterPath="$PROJECT_DIR$/router.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks.db" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.db" afterDir="false" />
-    </list>
+    <list default="true" id="87787f26-3da9-4531-bacf-521ccee5631c" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -97,11 +93,29 @@
       <option name="project" value="LOCAL" />
       <updated>1712256942393</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upgrade">
+      <option name="closed" value="true" />
+      <created>1712261201845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712261201845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712262238825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712262238825</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="upgrade" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
