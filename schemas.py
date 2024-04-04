@@ -10,3 +10,9 @@ class STaskAdd(BaseModel):
 
 class STask(STaskAdd):
     id: int
+
+class STaskId(BaseModel):
+    ok: bool = True
+    task_id: int
+
+
